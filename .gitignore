@@ -13,6 +13,8 @@
 # Ignore appsettings files
 RoomMasterAPI/appsettings.json
 RoomMasterAPI/appsettings.Development.json
+appsettings.json
+appsettings.Development.json
 
 
 # User-specific files (MonoDevelop/Xamarin Studio)
